@@ -4,7 +4,7 @@
 :yaml:
   :datadir: /etc/hiera/data
 :hierarchy:
-  - "%{::fqdn}"
+  - "%{::hostname}"
   - common
 ...
 
