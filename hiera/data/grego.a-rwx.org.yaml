@@ -1,0 +1,6 @@
+---
+kickstart:
+    linode_id: 180528
+    is_master: yes
+...
+
