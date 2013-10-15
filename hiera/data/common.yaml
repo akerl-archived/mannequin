@@ -6,7 +6,7 @@ kickstart:
         pvgrub_id: 95
         swap_size: 256
         root_size: 20480
-    keychain: /Volumes/akerl-vault/archer
+    keychain: /Volumes/akerl-vault/archer.keychain
     domain: a-rwx.org
 ...
 
