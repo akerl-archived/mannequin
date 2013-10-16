@@ -1,5 +1,5 @@
 ---
-kickstart:
-    linode_id: 76789
+:kickstart:
+    :linode_id: 76789
 ...
 

@@ -1,4 +1,4 @@
 ---
-kickstart:
-    linode_id: 171522
+:kickstart:
+    :linode_id: 171522
 ...
